@@ -1,0 +1,91 @@
+[33mcommit d8ebbf12a12786b88e5960896df03fcf3bfe9916[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mTA001[m[33m)[m
+Author: hieu <nguyentrunghieuthptxp@gmail.com>
+Date:   Tue Aug 12 09:43:33 2025 +0700
+
+    add discount
+
+[33mcommit 0cc2aa03ed60ae902ba72cf77c9bdee4fdbe4dc8[m[33m ([m[1;32mmain[m[33m)[m
+Author: hieu <nguyentrunghieuthptxp@gmail.com>
+Date:   Tue Aug 12 09:09:21 2025 +0700
+
+    add
+
+[33mcommit 950d2689138f4191fc1317eb4d17e16921b356bc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d13f8e6 5704eb0
+Author: hyeuhieu123 <147390311+hyeuhieu123@users.noreply.github.com>
+Date:   Mon Aug 11 01:25:37 2025 -0700
+
+    Merge pull request #4 from hyeuhieu123/feature/hieu
+    
+    feat: hieu
+
+[33mcommit 5704eb02a362f4a32afd5779fbd932c928c7ce01[m[33m ([m[1;31morigin/feature/hieu[m[33m)[m
+Merge: 60e09ef d13f8e6
+Author: unknown <vminh0227@gmail.com>
+Date:   Mon Aug 11 15:25:08 2025 +0700
+
+    feat:hieu
+
+[33mcommit 60e09ef1c626a66f8e291e74a2f38380579a4712[m
+Author: unknown <vminh0227@gmail.com>
+Date:   Mon Aug 11 15:22:31 2025 +0700
+
+    feat: hieu
+
+[33mcommit d13f8e657648de0efd401fcd06dc021779a8c957[m
+Merge: 63c3ee7 5648b01
+Author: hyeuhieu123 <147390311+hyeuhieu123@users.noreply.github.com>
+Date:   Mon Aug 11 01:16:30 2025 -0700
+
+    Merge pull request #3 from hyeuhieu123/feature/Ming
+    
+    good
+
+[33mcommit 5648b01725ad30efd79398c4bb7d961086a73702[m[33m ([m[1;31morigin/feature/Ming[m[33m)[m
+Merge: 0a53b36 63c3ee7
+Author: hyeuhieu123 <147390311+hyeuhieu123@users.noreply.github.com>
+Date:   Mon Aug 11 01:14:30 2025 -0700
+
+    Merge branch 'main' into feature/Ming
+
+[33mcommit 0a53b361c12ce387a7a0552ee0a5f1435ba821b5[m
+Author: unknown <vminh0227@gmail.com>
+Date:   Mon Aug 11 15:12:41 2025 +0700
+
+    test conflict
+
+[33mcommit 63c3ee7b2fb835984d2ce9fdc7a79ebe66f94efd[m
+Merge: b0438bc 1030c5e
+Author: hyeuhieu123 <147390311+hyeuhieu123@users.noreply.github.com>
+Date:   Mon Aug 11 01:09:23 2025 -0700
+
+    Merge pull request #2 from hyeuhieu123/feature/Ming2
+    
+    feat: uodate index.html
+
+[33mcommit 1030c5e4b656dfbabbdd1ef7fa9a4ccca0c4fb59[m
+Author: unknown <vminh0227@gmail.com>
+Date:   Mon Aug 11 15:08:23 2025 +0700
+
+    feat: uodate index.html
+
+[33mcommit b0438bc51bd3a7aa51c6927bae78fcdc68d04fb5[m
+Merge: 4780d85 adcd2e2
+Author: hyeuhieu123 <147390311+hyeuhieu123@users.noreply.github.com>
+Date:   Mon Aug 11 01:06:30 2025 -0700
+
+    Merge pull request #1 from hyeuhieu123/feature/Ming
+    
+    feat: create index.html
+
+[33mcommit adcd2e2e35074b54aa8868548ef8cb952b1ca8b0[m
+Author: unknown <vminh0227@gmail.com>
+Date:   Mon Aug 11 14:58:05 2025 +0700
+
+    feat: create index.html
+
+[33mcommit 4780d851c7d0acb9dc3261546b984141d8041598[m
+Author: hyeu <nguyentrunghieuthptxp@gmail.com>
+Date:   Mon Aug 11 14:53:54 2025 +0700
+
+    initial project
