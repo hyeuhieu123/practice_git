@@ -9,5 +9,4 @@ public class Demo4Application {
     public static void main(String[] args) {
         SpringApplication.run(Demo4Application.class, args);
     }
-    // This is the main method that starts the Spring Boot application
 }
